@@ -1,0 +1,32 @@
+[
+    {
+      "Region": "North_America",
+      "Year": 2020,
+      "Value": 25
+    },
+    {
+      "Region": "China",
+      "Year": 2020,
+      "Value": 60
+    },
+    {
+      "Region": "North_America",
+      "Year": 2023,
+      "Value": 330
+    },
+    {
+      "Region": "China",
+      "Year": 2023,
+      "Value": 850
+    },
+    {
+      "Region": "North_America",
+      "Year": 2028,
+      "Value": 4000
+    },
+    {
+      "Region": "China",
+      "Year": 2028,
+      "Value": 14000
+    }
+  ]
