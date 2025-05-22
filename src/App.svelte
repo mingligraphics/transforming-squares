@@ -111,7 +111,7 @@ const y_pos = 45;
       setTimeout(cycle, 3000); // loop every 4 seconds
     }
 
-    setTimeout(cycle, 3000); // start cycling after 4s
+    setTimeout(cycle, 800); // start cycling after 4s
   });
 </script>
 
