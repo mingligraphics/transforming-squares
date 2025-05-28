@@ -23,7 +23,7 @@
 
   $: rScale = scaleSqrt()
     .domain(data_range)
-    .range(width > 590 ? [30, 300] : width > 470 ? [20, 200] : [15, 150]);
+    .range(width > 590 ? [30, 280] : width > 470 ? [20, 200] : [15, 150]);
 
 const x_pos = -45;
 const y_pos = 45;
@@ -270,7 +270,7 @@ const y_pos = 45;
             {/if}
           </g>
         </svg>
-        <p class="footnote">Note: 2028 figures are forecasted. <br>Source: Analysys Mason</p>
+        <p class="footnote">Note: 2028 figures are forecasts. <br>Source: Analysys Mason</p>
       </div>
 </main>
 
@@ -298,16 +298,16 @@ const y_pos = 45;
 }
 
 .heading-image {
-  width: 45.0879px;
-  height: 45.0879px;
+  width: 48px;
+  height: 48px;
   display: inline-block;
   vertical-align: middle;
 }
 
 @media (max-width: 355px) {
   .heading-image {
-    width: 38.8442px;
-    height: 38.8442px;
+    width: 40px;
+    height: 40px;
   }
   h1{
     font-size: 16px;
